@@ -1,6 +1,6 @@
 import './App.css'
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
-import logo from "./assets/NinjaCart.png"
+import logo from "./assets/Ninjacart.png"
 import achievement1 from "./assets/G20-BW.png"
 import achievement2 from "./assets/quantic.png"
 import achievement3 from "./assets/Vccircle.png"
